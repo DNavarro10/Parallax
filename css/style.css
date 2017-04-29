@@ -15,6 +15,9 @@ body{
 	line-height: 20px;
 }
 
+header nav{
+	border-bottom: 1px solid 
+}
 .contenedor {
 	width: 90%;
 	max-width:900px;
